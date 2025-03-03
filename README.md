@@ -20,6 +20,15 @@ An interactive e-commerce web application built with **React.js** and **Node.js*
 - **API Requests:** Axios  
 
 ---
+## 🖼️ Screenshots
+
+### 📌 Home Page
+![Home Page](homepage.png)
+
+### 📌 Electronics Page
+![Electronics Page](electronics.png)
+
+--- 
 
 ## 🚀 Installation & Setup
 
